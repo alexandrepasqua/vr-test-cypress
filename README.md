@@ -1,6 +1,6 @@
 # PASSO A PASSO
 
-**1 - Passo de entre na pasta do projeto**
+**1 - Entrar na pasta do projeto**
 ```
 cypress-framework
 ```
